@@ -28,6 +28,7 @@
 1000027: Inferno Tower
 1000028: Air Sweeper
 1000029: Dark Spell Factory
+1000030: Grand Warden
 3000000: Gems
 3000001: Gold
 3000002: Elixir
